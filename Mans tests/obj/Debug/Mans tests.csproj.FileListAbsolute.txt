@@ -1,0 +1,12 @@
+C:\Users\Vizma\Desktop\Mans tests\bin\Debug\Mans tests.exe.config
+C:\Users\Vizma\Desktop\Mans tests\bin\Debug\Mans tests.exe
+C:\Users\Vizma\Desktop\Mans tests\bin\Debug\Mans tests.pdb
+C:\Users\Vizma\Desktop\Mans tests\obj\Debug\Mans tests.csproj.AssemblyReference.cache
+C:\Users\Vizma\Desktop\Mans tests\obj\Debug\Mans_tests.Form1.resources
+C:\Users\Vizma\Desktop\Mans tests\obj\Debug\Mans_tests.Form2.resources
+C:\Users\Vizma\Desktop\Mans tests\obj\Debug\Mans_tests.Form3.resources
+C:\Users\Vizma\Desktop\Mans tests\obj\Debug\Mans_tests.Properties.Resources.resources
+C:\Users\Vizma\Desktop\Mans tests\obj\Debug\Mans tests.csproj.GenerateResource.cache
+C:\Users\Vizma\Desktop\Mans tests\obj\Debug\Mans tests.csproj.CoreCompileInputs.cache
+C:\Users\Vizma\Desktop\Mans tests\obj\Debug\Mans tests.exe
+C:\Users\Vizma\Desktop\Mans tests\obj\Debug\Mans tests.pdb
